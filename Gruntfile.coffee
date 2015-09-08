@@ -101,7 +101,7 @@ module.exports = (grunt) ->
                 message: 'Built from %sourceCommit% on branch %sourceBranch%'
             pages:
                 options:
-                    remote: 'git@github.com:zetlen/modularity-with-npm-lecture.git'
+                    remote: 'https://github.com/zetlen/modularity-with-npm-lecture.git'
                     branch: 'gh-pages'
         
 
