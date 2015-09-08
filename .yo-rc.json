@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Modularity With NPM",
+    "packageVersion": "1.0.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "zetlen",
+    "githubRepository": "modularity-with-npm-lecture"
+  }
+}

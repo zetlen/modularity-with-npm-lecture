@@ -1,0 +1,104 @@
+[
+    "index.md",
+    {
+        "filename": "ah-the-web.md",
+        "attr": {}
+    },
+    {
+        "filename": "the-web-wasn-t-supposed-to-do-this.md",
+        "attr": {}
+    },
+    "don-t-believe-me.md",
+    "we-now-use-the-web-as-a-full-featured-application-platform.md",
+    {
+        "filename": "this-is-like-building-a-city-of-skyscrapers-based-on-pop-up-book-technology.md",
+        "attr": {
+            "data-background": "transparent url(resources/hogwarts-popup-book.jpg)"
+        }
+    },
+    {
+        "filename": "modularity.md",
+        "attr": {
+            "data-background": "transparent url(resources/spittoon-woodcut.png)"
+        }
+    },
+    {
+        "filename": "good-machines-have-parts-you-can-swap-out.md",
+        "attr": {
+            "data-background": "transparent url(resources/cylinder-diagram.jpg)"
+        }
+    },
+    {
+        "filename": "ask-yourself.md",
+        "attr": {
+            "data-background": "transparent url(resources/piston-diagram.gif)"
+        }
+    },
+    "components-on-the-web.md",
+    {
+        "filename": "isn-t-this-just-files.md",
+        "attr": {
+            "data-background": "transparent url(resources/zip-disk.jpg)"
+        }
+    },
+    "no.md",
+    {
+        "filename": "coincidence.md",
+        "attr": {
+            "data-background": "transparent url(resources/coincidence.jpg)"
+        }
+    },
+    {
+        "filename": "put-it-together.md",
+        "attr": {
+            "data-background": "transparent url(resources/plane-assembly-line.jpg)"
+        }
+    },
+    {
+        "filename": "software-package-managers.md",
+        "attr": {
+            "data-background": "transparent url(resources/batmans.png)"
+        }
+    },
+    "what-are-they.md",
+    "what-aren-t-they.md",
+    {
+        "filename": "like-social-networks.md",
+        "attr": {
+            "data-background": "transparent url(resources/google-plus.jpg)"
+        }
+    },
+    "some-contenders.md",
+    {
+        "filename": "bower.md",
+        "attr": {
+            "data-background": "transparent url(resources/bower-logo.png)"
+        }
+    },
+    {
+        "filename": "but-bower-is-still-losing.md",
+        "attr": {
+            "data-background": "transparent url(resources/bower-evil-logo.jpg)"
+        }
+    },
+    {
+        "filename": "npm.md",
+        "attr": {
+            "data-background": "transparent url(resources/npm-logo.png)"
+        }
+    },
+    "wait-but.md",
+    {
+        "filename": "what-s-an-npm-package.md",
+        "attr": {
+            "data-background": "transparent url(resources/package-json-screenshot.png)"
+        }
+    },
+    "how-do-i-make-one-how-do-i-install-one.md",
+    {
+        "filename": "cool-because-this-presentation-itself-uses-npm-modules.md",
+        "attr": {
+            "data-background": "transparent url(resources/xzibit.jpg)"
+        }
+    }
+]

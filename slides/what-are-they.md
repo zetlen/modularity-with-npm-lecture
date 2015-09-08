@@ -1,0 +1,3 @@
+##  What are they?
+
+Package managers are systems for sharing and organizing software. They should help you **declare what your software does** and keep track of **the dependencies your software needs**. They should have a public **repository** that lets you **publish your code**. They should automatically **download the code you say your software needs**, and **put it in a place where your software can use it.**
